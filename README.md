@@ -9,7 +9,7 @@ Built using VS Code
 |---------|
 |Asp.Net Core|
 |C#|
-|EF Migrations|
+|Entity Framework|
 |Yeoman.io|
 
 ---
