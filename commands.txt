@@ -1,0 +1,9 @@
+cd "CarModels"
+dotnet restore
+dotnet build (optional, build will also happen when it's run)
+dotnet ef database update (to create the SQLite database for the project)
+dotnet run
+
+dotnet ef migrations add InitialCreate
+dotnet ef migrations remove
+dotnet ef database update
