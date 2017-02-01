@@ -2,6 +2,8 @@
 
 Built using VS Code
 
+All configuration done in 'startup' & 'accountcontroller' files.
+
 ---
 
 ###Frameworks
