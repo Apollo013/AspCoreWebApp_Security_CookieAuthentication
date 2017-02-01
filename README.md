@@ -2,8 +2,6 @@
 
 Built using VS Code
 
-All configuration done in 'startup' & 'accountcontroller' files.
-
 ---
 
 ###Frameworks
@@ -12,6 +10,8 @@ All configuration done in 'startup' & 'accountcontroller' files.
 |Asp.Net Core|
 |C#|
 |Yeoman.io|
+
+---
 
 ### Features
 |Feature|
